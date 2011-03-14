@@ -1,0 +1,6 @@
+*.swp
+*.a
+*.o
+*.elf
+*.self
+*.pkg
